@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c94da40ba06b47a7b02376407b22a324/artifacts
+end_time: 1742538207649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c94da40ba06b47a7b02376407b22a324
+run_name: glamorous-midge-185
+run_uuid: c94da40ba06b47a7b02376407b22a324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742538206865
+status: 3
+tags: []
+user_id: OMEN

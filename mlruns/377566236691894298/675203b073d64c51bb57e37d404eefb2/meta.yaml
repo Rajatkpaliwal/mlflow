@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377566236691894298/675203b073d64c51bb57e37d404eefb2/artifacts
+end_time: 1742539458368
+entry_point_name: ''
+experiment_id: '377566236691894298'
+lifecycle_stage: active
+run_id: 675203b073d64c51bb57e37d404eefb2
+run_name: nimble-bee-590
+run_uuid: 675203b073d64c51bb57e37d404eefb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742539443797
+status: 3
+tags: []
+user_id: OMEN

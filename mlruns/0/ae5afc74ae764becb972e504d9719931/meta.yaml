@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae5afc74ae764becb972e504d9719931/artifacts
+end_time: 1742537015992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae5afc74ae764becb972e504d9719931
+run_name: bouncy-grub-262
+run_uuid: ae5afc74ae764becb972e504d9719931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742536978050
+status: 3
+tags: []
+user_id: OMEN

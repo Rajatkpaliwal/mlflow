@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/377566236691894298/d484c58d173d4f7692ef8a04ae410f32/artifacts
+deleted_time: 1742539475103
+end_time: 1742539388458
+entry_point_name: ''
+experiment_id: '377566236691894298'
+lifecycle_stage: deleted
+run_id: d484c58d173d4f7692ef8a04ae410f32
+run_name: gregarious-moose-276
+run_uuid: d484c58d173d4f7692ef8a04ae410f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742539387753
+status: 4
+tags: []
+user_id: OMEN
